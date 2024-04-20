@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.572
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "XGamingRuntimeThunks", "XGamingRuntimeThunks\XGamingRuntimeThunks.vcxproj", "{AB35F77B-112D-4365-95F3-7DAE74315CCA}"
 EndProject
@@ -27,6 +27,7 @@ Global
 		{AB35F77B-112D-4365-95F3-7DAE74315CCA}.Release|Gaming.Desktop.x64.Build.0 = Release|Gaming.Desktop.x64
 		{AB35F77B-112D-4365-95F3-7DAE74315CCA}.Release|x64.ActiveCfg = Release|Gaming.Desktop.x64
 		{8969A576-C40B-487B-802A-BF310E14639A}.Debug|Gaming.Desktop.x64.ActiveCfg = Debug|x64
+		{8969A576-C40B-487B-802A-BF310E14639A}.Debug|Gaming.Desktop.x64.Build.0 = Debug|x64
 		{8969A576-C40B-487B-802A-BF310E14639A}.Debug|x64.ActiveCfg = Debug|x64
 		{8969A576-C40B-487B-802A-BF310E14639A}.Debug|x64.Build.0 = Debug|x64
 		{8969A576-C40B-487B-802A-BF310E14639A}.Profile|Gaming.Desktop.x64.ActiveCfg = Release|x64
@@ -34,6 +35,7 @@ Global
 		{8969A576-C40B-487B-802A-BF310E14639A}.Profile|x64.ActiveCfg = Release|x64
 		{8969A576-C40B-487B-802A-BF310E14639A}.Profile|x64.Build.0 = Release|x64
 		{8969A576-C40B-487B-802A-BF310E14639A}.Release|Gaming.Desktop.x64.ActiveCfg = Release|x64
+		{8969A576-C40B-487B-802A-BF310E14639A}.Release|Gaming.Desktop.x64.Build.0 = Release|x64
 		{8969A576-C40B-487B-802A-BF310E14639A}.Release|x64.ActiveCfg = Release|x64
 		{8969A576-C40B-487B-802A-BF310E14639A}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
