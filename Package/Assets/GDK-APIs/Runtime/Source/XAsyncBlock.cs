@@ -22,7 +22,6 @@ namespace XGamingRuntime
         private GCHandle callbackObjHandle;
         private GCHandle interopHandle;
 
-        [AOT.MonoPInvokeCallback(typeof(XAsyncCompletionRoutineInterop))]
         private static void OnXAsyncBlockCompletion(IntPtr asyncBlock)
         {
             XAsyncBlockInterop tmp = (XAsyncBlockInterop)Marshal.PtrToStructure(asyncBlock, typeof(XAsyncBlockInterop));
@@ -142,7 +141,6 @@ namespace XGamingRuntime
         static private Dictionary<IntPtr, CallbackWrapper<XAsyncWorkInterop>> asyncWorkCallbackDictionary
             = new Dictionary<IntPtr, CallbackWrapper<XAsyncWorkInterop>>();
 
-        [AOT.MonoPInvokeCallback(typeof(XAsyncWorkInterop))]
         private static Int32 OnAsyncWorkCallback(IntPtr asyncBlock)
         {
             CallbackWrapper<XAsyncWorkInterop> asyncWorkWrapper;

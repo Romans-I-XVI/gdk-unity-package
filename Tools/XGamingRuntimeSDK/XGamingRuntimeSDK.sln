@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "XGamingRuntimeThunks", "XGamingRuntimeThunks\XGamingRuntimeThunks.vcxproj", "{AB35F77B-112D-4365-95F3-7DAE74315CCA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGame", "TestGame\TestGame.csproj", "{010FAFE8-E344-4CDC-B6BD-F09AE1A6612F}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XGamingRuntime", "XGamingRuntime\XGamingRuntime.csproj", "{8969A576-C40B-487B-802A-BF310E14639A}"
 EndProject
 Global
@@ -28,18 +26,6 @@ Global
 		{AB35F77B-112D-4365-95F3-7DAE74315CCA}.Release|Gaming.Desktop.x64.ActiveCfg = Release|Gaming.Desktop.x64
 		{AB35F77B-112D-4365-95F3-7DAE74315CCA}.Release|Gaming.Desktop.x64.Build.0 = Release|Gaming.Desktop.x64
 		{AB35F77B-112D-4365-95F3-7DAE74315CCA}.Release|x64.ActiveCfg = Release|Gaming.Desktop.x64
-		{010FAFE8-E344-4CDC-B6BD-F09AE1A6612F}.Debug|Gaming.Desktop.x64.ActiveCfg = Debug|x64
-		{010FAFE8-E344-4CDC-B6BD-F09AE1A6612F}.Debug|Gaming.Desktop.x64.Build.0 = Debug|x64
-		{010FAFE8-E344-4CDC-B6BD-F09AE1A6612F}.Debug|x64.ActiveCfg = Debug|x64
-		{010FAFE8-E344-4CDC-B6BD-F09AE1A6612F}.Debug|x64.Build.0 = Debug|x64
-		{010FAFE8-E344-4CDC-B6BD-F09AE1A6612F}.Profile|Gaming.Desktop.x64.ActiveCfg = Release|x64
-		{010FAFE8-E344-4CDC-B6BD-F09AE1A6612F}.Profile|Gaming.Desktop.x64.Build.0 = Release|x64
-		{010FAFE8-E344-4CDC-B6BD-F09AE1A6612F}.Profile|x64.ActiveCfg = Release|x64
-		{010FAFE8-E344-4CDC-B6BD-F09AE1A6612F}.Profile|x64.Build.0 = Release|x64
-		{010FAFE8-E344-4CDC-B6BD-F09AE1A6612F}.Release|Gaming.Desktop.x64.ActiveCfg = Release|x64
-		{010FAFE8-E344-4CDC-B6BD-F09AE1A6612F}.Release|Gaming.Desktop.x64.Build.0 = Release|x64
-		{010FAFE8-E344-4CDC-B6BD-F09AE1A6612F}.Release|x64.ActiveCfg = Release|x64
-		{010FAFE8-E344-4CDC-B6BD-F09AE1A6612F}.Release|x64.Build.0 = Release|x64
 		{8969A576-C40B-487B-802A-BF310E14639A}.Debug|Gaming.Desktop.x64.ActiveCfg = Debug|x64
 		{8969A576-C40B-487B-802A-BF310E14639A}.Debug|x64.ActiveCfg = Debug|x64
 		{8969A576-C40B-487B-802A-BF310E14639A}.Debug|x64.Build.0 = Debug|x64
